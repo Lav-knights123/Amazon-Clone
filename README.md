@@ -1,6 +1,8 @@
 # Amazon-Clone
 A faithful front-end recreation of Amazon's interface, which looks "JUST LIKE AMAZON!!"
 
+🌐 **Live Demo:** {Click here to see the app} (http://127.0.0.1:5500/index.html)
+
 <img width="1916" height="867" alt="Amazon-clone" src="https://github.com/user-attachments/assets/3331b133-2a5d-44f4-bd1f-941d85e6a91f" />
 
 
@@ -11,7 +13,7 @@ A faithful front-end recreation of Amazon's interface, which looks "JUST LIKE AM
 - 🛍️ Category cards with product images
 
 ## 🧰 Tech Stack ~
-HTML5 · CSS3 (Flexbox, Grid)
+- Front-End
 
 ## 🚧 Future Roadmap ~
 - [ ] Working cart and checkout
